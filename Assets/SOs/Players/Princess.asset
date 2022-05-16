@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8909af5dd56af43069410530a3d141b4, type: 3}
+  m_Name: Princess
+  m_EditorClassIdentifier: 
+  Class: 0
+  ClassName: 
+  BaseHealth: 3
+  TitleText: AI
+  AvatarImage: {fileID: 21300000, guid: 7ced53b1d7e044159aa0a58c6b53b33a, type: 3}
+  AvatarBGImage: {fileID: 0}
+  TitleBackgroundImage: {fileID: 0}
+  AvatarBGTint:
+    serializedVersion: 2
+    rgba: 0
